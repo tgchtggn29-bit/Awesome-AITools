@@ -6,6 +6,9 @@ All notable changes to the Awesome AI Tools list will be documented in this file
 - Added 豆包工作 to 语音合成 TTS (CN only, no English release): generates voiceover audio inside PPT / video workflows
 - Added Grok Bot (SpaceXAI's always-on cloud-computer AI agent) to AI Agent
 
+## November 2026
+- Added Lanyard Badge Studio to Agent Skills: agent skill + browser studio that turns a logo into an animated lanyard badge, posters, business cards and a print-ready badge package (both EN/CN)
+
 ## October 2026
 - Updated Gemini entry to add Gemini 4 Carbon (Oct 28, 2026) — Google's strongest model, focused on cybersecurity and long-horizon agentic work, #1 on the Artificial Analysis Intelligence Index v5.0; gated rollout via Fairwind to cyber defenders first, with Argon remaining the broadly available flagship
 - Updated Kimi Chat to K3.1 Pro (Oct 24, 2026); renamed the K3 open-weight entry to **Kimi K3.1** in Open Source LLMs, reflecting the 3T-class open-weight K3.1 Pro (full weights by Nov 4, 2026)

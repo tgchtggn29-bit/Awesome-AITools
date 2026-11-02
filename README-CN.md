@@ -271,6 +271,7 @@
 | last30days-skill | AI 智能体技能，可跨 Reddit、X、YouTube、Hacker News、Polymarket、GitHub、arXiv 和全网研究任意话题，并根据真实互动（点赞、转发、投注等）评分后合成带引用的总结。支持 Claude Code、Codex、Cursor、Gemini CLI 等 50+ Agent Skills 宿主。 | [GitHub](https://github.com/mvanhorn/last30days-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=social) | 免费 |
 | BrowserAct Skills | 可复用的 AI 智能体技能与浏览器自动化工作流目录，覆盖研究、电商、社交/搜索提取、视频平台、地图和运营自动化等场景。 | [网站](https://skills.browseract.com/) | 免费 |
 | webcmd | 面向 AI 智能体的浏览器技能：学会一次网站的导航方式，即编译为确定性的站点专属 CLI 命令。通过 `webcmd skills add` 安装到 Claude Code、Codex 等宿主。 | [GitHub](https://github.com/agentrhq/webcmd) ![GitHub Repo stars](https://img.shields.io/github/stars/agentrhq/webcmd?style=social) | 免费 |
+| Lanyard Badge Studio 工牌工作室 | 品牌挂绳工牌的 AI 智能体技能 + 网页工作台。给 Logo 和一句需求，智能体自动提取品牌色、写文案，渲染工牌动画视频 / GIF、海报、名片和给印刷厂的印刷包（裁切线 PDF、批量员工背面、挂绳、设计规范）；网页里可拖拽、旋转、翻面 3D 工牌。支持 Claude Code、Claude 应用（zip 技能包）、Codex、Cursor。 | [GitHub](https://github.com/tgchtggn29-bit/lanyard-badge-studio) ![GitHub Repo stars](https://img.shields.io/github/stars/tgchtggn29-bit/lanyard-badge-studio?style=social) | 免费 |
 
 ### AI 新闻与资讯
 | 名称 | 说明 | 链接 | 费用 |
